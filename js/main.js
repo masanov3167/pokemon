@@ -3,7 +3,6 @@ document.body.appendChild(header);
 header.classList.add("header");
 
 var main = document.createElement("main");
-main.classList.add("container");
 document.body.appendChild(main);
 
 var cardList = document.createElement("ol");
